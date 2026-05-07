@@ -1,0 +1,1 @@
+This project focuses on salary data analysis using visualization and analytics tools to understand salary trends, employee compensation, and business insights. The dashboard helps in comparing salaries, identifying patterns, and supporting data-driven decision-making
